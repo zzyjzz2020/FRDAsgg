@@ -7,5 +7,5 @@ follow [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph
 train
 -----
 ```
-bash train.sh
+bash train.sh 1
 ```
