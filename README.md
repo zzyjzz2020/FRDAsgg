@@ -1,10 +1,10 @@
 # FRDAsgg
 
-##Install
+Install
 -----
 follow [Scene-Graph-Benchmark.pytorch](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
 
-##train
+train
 -----
 ```
 bash train.sh
